@@ -35,6 +35,7 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="center">
+<a href="https://leetcode.com/swetasahu01/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-Sweta%20Sahu-brightgreen?style=flat-square&logo=leetcode"></a>
 <a href="https://www.linkedin.com/in/sweta-sahu-535698226//"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sweta%20Sahu-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:sweetaku.sahu@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sweetaku.sahu@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
